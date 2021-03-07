@@ -1,0 +1,8 @@
+{"id": "cmpl-2aqZ4CcsbSQE5HGtvdMSB90BEIG5y",
+    "object": "text_completion",
+    "created": 1615134542,
+    "model": "ada:2020-05-03",
+    "choices": [{"text": "\n\nthere. (sadly) it’s about time I",
+      "index": 0,
+      "logprobs": "None",
+      "finish_reason": "length"}]}
